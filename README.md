@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ZoranBacsi
+- 👀 I’m interested in Java, Javascript, PHP
+- 🌱 I’m currently learning at ELTE Programtervező Informatikus szak
+- 📫 How to reach me zoran.heinczinger@gmail.com
